@@ -18,5 +18,5 @@ steps:
     sdk: 'iphoneos'
     xcWorkspacePath: '*.xcworkspace'
     scheme: 'sampleapp-ios-swift'
-    packageApp: false
+    packageApp: true
     publishJUnitResults: true
